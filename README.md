@@ -16,7 +16,6 @@
 
 💬 Ask me about <b>Drone, Linux... or anything <a href="https://github.com/upendraprawal/upendraprawal/issues">here</a></b>
 
-✨ Fun fact <b>Creators behind Avatar- The Last Airbender were influenced by anime!</b>
 
 </div>
 
