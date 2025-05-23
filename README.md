@@ -12,7 +12,7 @@
  
  🔗 I’m currently working on <b>AI Platform</b>
  
- 🌱 I’m currently learning <b>Docker, AI Models</b>
+ 🌱 I’m currently learning <b>Frontend & Backend developer, AI Models</b>
 
 💬 Ask me about <b>Drone, Linux... or anything <a href="https://github.com/upendraprawal/upendraprawal/issues">here</a></b>
 
@@ -41,20 +41,4 @@
 <br/>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=upendraprawal&border_radius=10" alt="streak stats" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=upendraprawal&show_icons=true&locale=en&border_radius=10" alt="readme stats" />
-</div>
 
-<br>
-<p align="center">
-  <img width=345 src="https://github-readme-stats.vercel.app/api/top-langs?username=upendraprawal&show_icons=true&locale=en&layout=compact&border_radius=10" alt="upendraprawal" />
-</p>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
