@@ -13,8 +13,7 @@
 - 🚀 I'm currently working on **AI Platform**
 - 🌱 Learning **Full-Stack Development & AI Models**
 - 🤖 Passionate about **Drones, Robotics & IoT**
-- 💻 Love exploring **Linux & Open Source**
-- 💬 Ask me about **Drones, Linux, Web Development**
+- 💬 Ask me about **Drones, Web Development**
 - 📫 Reach me at **goluprawal3@gmail.com**
 - ⚡ Fun fact: **I turn coffee into code!**
 
@@ -55,7 +54,7 @@
 <h4 align="center">⚙️ Tools & Platforms</h4>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,ubuntu,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,ubuntu,linux,vscode,androidstudio,pycharm" />
 </div>
 
 ---
