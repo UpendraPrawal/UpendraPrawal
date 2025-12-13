@@ -56,10 +56,8 @@
 #### 🎓 B.Voc IoT Student @ DEI Agra
 <br>
 
-> 📍 Based in **Hathras, Uttar Pradesh** 🇮🇳  
-> 🎯 Currently exploring **IoT, Drones & Embedded Systems**  
-> 🏆 **1st Position** - Drone Project Exhibition  
-> 🥈 **2nd Position** - Payload Drop Drone Challenge  
+> 📍 I am from **Hathras, Uttar Pradesh** 🇮🇳  
+> 🎯 Currently exploring **IoT, Drones & Embedded Systems** 
 > ⚡ **Passion:** Building Smart Automated Solutions
 
 ---
