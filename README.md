@@ -57,7 +57,7 @@
 <br>
 
 > 📍 I am from **Hathras, Uttar Pradesh** 🇮🇳  
-> 🎯 Currently exploring **IoT, Drones & Embedded Systems** 
+> 🎯 Currently exploring **IoT, Drones & Embedded Systems**  
 > ⚡ **Passion:** Building Smart Automated Solutions
 
 ---
@@ -76,7 +76,7 @@
 
 **Programming:** Python • C++ • Arduino • HTML/CSS  
 **Hardware:** Arduino • Raspberry Pi • ESP32 • Sensors  
-**Specialization:** Servo Mechanism Design • Flight Controllers  
+**Specialization:** Flight Controllers
 **Tools:** VS Code • Git • PyCharm • Proteus  
 
 ---
@@ -208,9 +208,6 @@
 
 <br>
 
-
-<br>
-
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/>
   CONNECT WITH ME
@@ -250,6 +247,8 @@
   
   <br>
   
+  <div align="center">
+  
   ```diff
   + 🎓 Pursuing B.Voc in Internet of Things at DEI Agra (2023-2026)
   + 🚀 Passionate about creating intelligent automated systems
@@ -258,9 +257,11 @@
   + 🌟 Committed to continuous learning and innovation
   ```
   
+  </div>
+  
   <br>
   
-  <table>
+  <table align="center">
     <tr>
       <td align="center">🎯 <b>Current Focus</b></td>
       <td>IoT Development, Drone Technology, Embedded Systems, Automation</td>
