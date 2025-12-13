@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=UPENDRA%20PRAWAL&fontSize=80&fontAlignY=35&desc=🚁%20Robotics%20Engineer%20|%20🛸%20Drone%20Developer%20|%20📡%20IoT%20Innovator&descAlignY=55&descSize=18&color=gradient&customColorList=0,2,6,12,20&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=UPENDRA%20PRAWAL&fontSize=80&fontAlignY=35&desc=🚁%20IoT%20Engineer%20|%20🛸%20Drone%20Developer%20|%20📡%20Embedded%20Systems%20Enthusiast&descAlignY=55&descSize=18&color=gradient&customColorList=0,2,6,12,20&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=38&duration=3000&pause=800&color=667EEA&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=140&lines=%F0%9F%9A%80+Building+the+Future+with+AI+%26+Robotics;%F0%9F%8C%8C+Transforming+Ideas+into+Reality;%F0%9F%A4%96+Innovating+with+Drones+%26+IoT;%F0%9F%92%BB+Crafting+Elegant+Solutions+in+Code" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=38&duration=3000&pause=800&color=667EEA&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=140&lines=%F0%9F%9A%80+Building+Smart+IoT+Solutions;%F0%9F%8C%8C+Exploring+Drone+Technology;%F0%9F%A4%96+Innovating+with+Embedded+Systems;%F0%9F%92%BB+Crafting+Automated+Solutions" alt="Typing Animation" />
 </div>
 
 <br>
@@ -49,42 +49,43 @@
 </td>
 <td width="50%" align="left">
 
-### 👋 Hi, I'm Upendra Prawal
+### 👋 Hello, I'm Upendra Prawal!
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" align="left"/>
 
-#### 🚀 Full-Stack Developer & AI Engineer
+#### 🎓 B.Voc IoT Student @ DEI Agra
 <br>
 
-> 📍 Based in **Hathras, India** 🇮🇳  
-> 💼 Currently **Building Drones**  
-> 🎯 Focused on **Innovation & Technology**  
-> ⚡ **Coffee → Code → Create** ☕💻✨
+> 📍 Based in **Hathras, Uttar Pradesh** 🇮🇳  
+> 🎯 Currently exploring **IoT, Drones & Embedded Systems**  
+> 🏆 **1st Position** - Drone Project Exhibition  
+> 🥈 **2nd Position** - Payload Drop Drone Challenge  
+> ⚡ **Passion:** Building Smart Automated Solutions
 
 ---
 
-### 💡 What I Do
+### 💡 What Drives Me
 
-🎨 **Frontend Development** → Crafting beautiful user experiences  
-⚙️ **Backend Engineering** → Building robust server solutions  
-🤖 **AI & Machine Learning** → Training intelligent systems  
-🛸 **Drone Technology** → Autonomous flight systems  
-🔧 **Robotics & IoT** → Connected hardware solutions  
-
----
-
-### 🎯 My Expertise
-
-**Languages:** Python • JavaScript • HTML • CSS • C++  
-**Frameworks:** Django • React • Node.js • Express  
-**Hardware:** Arduino • Raspberry Pi • ESP32  
-**Databases:** MySQL • PostgreSQL • MongoDB  
+🔧 **IoT Development** → Creating connected intelligent systems  
+🛸 **Drone Technology** → Designing autonomous flight controllers  
+⚙️ **Embedded Systems** → Programming microcontrollers & sensors  
+🤖 **Automation** → Building smart automation solutions  
+📡 **Wireless Communication** → Real-time data processing  
 
 ---
 
-### 🌟 Life Philosophy
+### 🎯 Core Competencies
 
-*"Turning ideas into reality, one line of code at a time!"*
+**Programming:** Python • C++ • Arduino • HTML/CSS  
+**Hardware:** Arduino • Raspberry Pi • ESP32 • Sensors  
+**Specialization:** Servo Mechanism Design • Flight Controllers  
+**Tools:** VS Code • Git • PyCharm • Proteus  
+
+---
+
+### 🌟 My Philosophy
+
+*"Combining IoT, sensors, and microcontrollers to create intelligent systems that make a real impact!"*
 
 </td>
 </tr>
@@ -96,7 +97,7 @@
 
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"/>
-  TECH ARSENAL
+  TECH STACK & SKILLS
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"/>
 </h2>
 
@@ -105,40 +106,72 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<h3>🎨 Frontend</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js" /><br>
-</td>
-<td align="center" width="25%">
-<h3>⚙️ Backend</h3>
-<img src="https://skillicons.dev/icons?i=python,django,mysql" /><br>
-</td>
-<td align="center" width="25%">
-<h3>🤖 AI & ML</h3>
-<img src="https://skillicons.dev/icons?i=jupyter,opencv" /><br>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="40"/>
+<h3>💻 Programming</h3>
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js" /><br>
 </td>
 <td align="center" width="25%">
 <h3>🔧 Hardware</h3>
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" /><br>
 <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" height="40"/>
 </td>
-</tr>
-<tr>
 <td align="center" width="25%">
-<h3>🛠️ Tools</h3>
+<h3>🛠️ Tools & IDEs</h3>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" /><br>
 </td>
 <td align="center" width="25%">
-<h3>☁️ Cloud</h3>
-<img src="https://skillicons.dev/icons?i=docker,vercel" /><br>
+<h3>🎨 Design</h3>
+<img src="https://img.shields.io/badge/Proteus-1C79C0?style=for-the-badge&logo=proteus&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Video_Editing-FF0000?style=for-the-badge&logo=adobe&logoColor=white" height="40"/>
 </td>
-<td align="center" width="25%">
-<h3>🖥️ OS</h3>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" /><br>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<h3>🚁 Drone Technology</h3>
+<img src="https://img.shields.io/badge/Flight_Controllers-667EEA?style=for-the-badge&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Servo_Mechanism-764ba2?style=for-the-badge&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Autonomous_Systems-f093fb?style=for-the-badge&logoColor=white" height="40"/>
 </td>
-<td align="center" width="25%">
-<h3>📱 Mobile</h3>
-<img src="https://skillicons.dev/icons?i=androidstudio" /><br>
+<td align="center" colspan="2">
+<h3>📡 IoT & Embedded</h3>
+<img src="https://img.shields.io/badge/Sensors-667EEA?style=for-the-badge&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Wireless_Comm-764ba2?style=for-the-badge&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Real--Time_Data-f093fb?style=for-the-badge&logoColor=white" height="40"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216649426-3a2c1ed1-c5df-4fdd-baf7-b0cebc767015.gif" width="40"/>
+  ACHIEVEMENTS & CERTIFICATIONS
+  <img src="https://user-images.githubusercontent.com/74038190/216649426-3a2c1ed1-c5df-4fdd-baf7-b0cebc767015.gif" width="40"/>
+</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🏆 Competition Achievements
+
+🥇 **1st Position** - Drone Project Exhibition  
+🥈 **2nd Position** - Payload Drop Drone Challenge
+
+</td>
+<td align="center" width="50%">
+
+### 📜 Professional Certifications
+
+✅ Introduction to Programming Using Python  
+✅ MTA: Programming Using HTML & CSS  
+✅ Video Editing Professional  
+
 </td>
 </tr>
 </table>
@@ -177,24 +210,8 @@
 
 <br>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"/>
-  GITHUB TROPHIES
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"/>
-</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=upendraprawal&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
-
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216649426-3a2c1ed1-c5df-4fdd-baf7-b0cebc767015.gif" width="40"/>
-  
-
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/>
@@ -204,19 +221,13 @@
 
 <p align="center">
   <a href="mailto:goluprawal3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic&labelColor=EA4335" height="40" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/upendra-prawal-98ba18191/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic&labelColor=0A66C2" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="40" />
   </a>
   <a href="https://github.com/upendraprawal">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=plastic&labelColor=181717" height="40" />
-  </a>
-  <a href="https://twitter.com/upendraprawal">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=plastic&labelColor=1D9BF0" height="40" />
-  </a>
-  <a href="https://instagram.com/upendraprawal">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=plastic&labelColor=E1306C" height="40" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="40" />
   </a>
 </p>
 
@@ -224,14 +235,14 @@
 
 <div align="center">
   
-### 💡 **"The only way to do great work is to love what you do."** - Steve Jobs
+### 💡 **"Innovation distinguishes between a leader and a follower."** - Steve Jobs
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" />
 </div>
 
 <br>
@@ -242,31 +253,31 @@
   <br>
   
   ```diff
-  + 🎓 Constantly learning and evolving in the tech space
-  + 🚀 Passionate about building innovative solutions
-  + 🤝 Open to collaborating on exciting projects
-  + 💡 Always exploring new technologies and frameworks
-  + 🌟 Committed to writing clean, efficient code
+  + 🎓 Pursuing B.Voc in Internet of Things at DEI Agra (2023-2026)
+  + 🚀 Passionate about creating intelligent automated systems
+  + 🤝 Open to collaborating on IoT and Drone projects
+  + 💡 Always exploring embedded systems and wireless tech
+  + 🌟 Committed to continuous learning and innovation
   ```
   
   <br>
   
   <table>
     <tr>
-      <td align="center">🎯 <b>Focus Areas</b></td>
-      <td>AI Development, Full-Stack Web, Drone Tech, IoT Solutions</td>
+      <td align="center">🎯 <b>Current Focus</b></td>
+      <td>IoT Development, Drone Technology, Embedded Systems, Automation</td>
     </tr>
     <tr>
       <td align="center">📚 <b>Currently Learning</b></td>
-      <td>Advanced AI/ML Models, Cloud Architecture, Microservices</td>
+      <td>Advanced Flight Controllers, Real-time Data Processing, Smart Sensors</td>
     </tr>
     <tr>
       <td align="center">🎨 <b>Interests</b></td>
-      <td>Robotics, Autonomous Systems, Smart IoT Devices</td>
+      <td>Autonomous Drones, Smart IoT Devices, Robotics, Servo Mechanisms</td>
     </tr>
     <tr>
       <td align="center">⚡ <b>Fun Fact</b></td>
-      <td>I debug with console.log() and I'm not ashamed! 😄</td>
+      <td>I've built competition-winning drones and love experimenting with new tech! 🚁</td>
     </tr>
   </table>
   
@@ -280,14 +291,14 @@
 
 <br>
 
-<h2 align="center">🎮 LET'S BUILD SOMETHING AMAZING TOGETHER!</h2>
+<h2 align="center">🚁 LET'S BUILD THE FUTURE OF IoT & DRONES TOGETHER!</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Open+for+Collaborations+%F0%9F%A4%9D;Let's+Create+Innovation+Together+%F0%9F%9A%80;Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%92%BB;Always+Ready+for+New+Challenges+%E2%9A%A1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Open+for+Collaborations+%F0%9F%A4%9D;Let's+Create+Smart+Solutions+Together+%F0%9F%9A%80;Building+Tomorrow's+Technology+Today+%F0%9F%92%BB;Always+Ready+for+New+Challenges+%E2%9A%A1" />
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Thanks%20For%20Visiting!&fontSize=40&fontAlign=50&fontAlignY=40&color=gradient&customColorList=6,11,20&animation=twinkling&section=footer&desc=Let's%20Connect%20and%20Innovate!&descSize=18&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Thanks%20For%20Visiting!&fontSize=40&fontAlign=50&fontAlignY=40&color=gradient&customColorList=6,11,20&animation=twinkling&section=footer&desc=Let's%20Innovate%20Together!&descSize=18&descAlign=50&descAlignY=60" />
 </div>
 
 <p align="center">
@@ -300,6 +311,6 @@
   
   **Made with** ❤️ **and** ☕ **by Upendra Prawal**
   
-  ![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
+  *Aspiring IoT & Drone Engineer | Building Smart Solutions for Tomorrow*
   
 </div>
